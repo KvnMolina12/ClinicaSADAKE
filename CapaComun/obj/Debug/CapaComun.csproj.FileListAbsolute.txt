@@ -1,0 +1,34 @@
+C:\Users\Alex Palma\Desktop\ProyectoClinica\CapaComun\bin\Debug\CapaComun.dll
+C:\Users\Alex Palma\Desktop\ProyectoClinica\CapaComun\bin\Debug\CapaComun.pdb
+C:\Users\Alex Palma\Desktop\ProyectoClinica\CapaComun\obj\Debug\CapaComun.csproj.CoreCompileInputs.cache
+C:\Users\Alex Palma\Desktop\ProyectoClinica\CapaComun\obj\Debug\CapaComun.dll
+C:\Users\Alex Palma\Desktop\ProyectoClinica\CapaComun\obj\Debug\CapaComun.pdb
+C:\Users\Alex Palma\Desktop\ProyectoClinica\CapaComun\obj\Debug\CapaComun.csprojAssemblyReference.cache
+D:\Utec\ProyectoClinica\CapaComun\bin\Debug\CapaComun.dll
+D:\Utec\ProyectoClinica\CapaComun\bin\Debug\CapaComun.pdb
+D:\Utec\ProyectoClinica\CapaComun\obj\Debug\CapaComun.csproj.CoreCompileInputs.cache
+D:\Utec\ProyectoClinica\CapaComun\obj\Debug\CapaComun.dll
+D:\Utec\ProyectoClinica\CapaComun\obj\Debug\CapaComun.pdb
+D:\Utec\ProyectoClinica\CapaComun\obj\Debug\CapaComun.csproj.AssemblyReference.cache
+C:\Users\Billy Mejia\Desktop\Clinica\CapaComun\bin\Debug\CapaComun.dll
+C:\Users\Billy Mejia\Desktop\Clinica\CapaComun\bin\Debug\CapaComun.pdb
+C:\Users\Billy Mejia\Desktop\Clinica\CapaComun\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Billy Mejia\Desktop\Clinica\CapaComun\bin\Debug\itextsharp.dll
+C:\Users\Billy Mejia\Desktop\Clinica\CapaComun\bin\Debug\itextsharp.xml
+C:\Users\Billy Mejia\Desktop\Clinica\CapaComun\obj\Debug\CapaComun.csproj.AssemblyReference.cache
+C:\Users\Billy Mejia\Desktop\Clinica\CapaComun\obj\Debug\CapaComun.csproj.CoreCompileInputs.cache
+C:\Users\Billy Mejia\Desktop\Clinica\CapaComun\obj\Debug\CapaComun.csproj.CopyComplete
+C:\Users\Billy Mejia\Desktop\Clinica\CapaComun\obj\Debug\CapaComun.dll
+C:\Users\Billy Mejia\Desktop\Clinica\CapaComun\obj\Debug\CapaComun.pdb
+C:\Users\Josue\Desktop\change name\Clinica\CapaComun\bin\Debug\CapaComun.dll
+C:\Users\Josue\Desktop\change name\Clinica\CapaComun\bin\Debug\CapaComun.pdb
+C:\Users\Josue\Desktop\change name\Clinica\CapaComun\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Josue\Desktop\change name\Clinica\CapaComun\bin\Debug\itextsharp.dll
+C:\Users\Josue\Desktop\change name\Clinica\CapaComun\bin\Debug\itextsharp.xml
+C:\Users\Josue\Desktop\change name\Clinica\CapaComun\obj\Debug\CapaComun.csproj.AssemblyReference.cache
+C:\Users\Josue\Desktop\change name\Clinica\CapaComun\obj\Debug\CapaComun.csproj.CoreCompileInputs.cache
+C:\Users\Josue\Desktop\change name\Clinica\CapaComun\obj\Debug\CapaComun.csproj.CopyComplete
+C:\Users\Josue\Desktop\change name\Clinica\CapaComun\obj\Debug\CapaComun.dll
+C:\Users\Josue\Desktop\change name\Clinica\CapaComun\obj\Debug\CapaComun.pdb
+C:\Users\Josue\Desktop\change name\Clinica\CapaComun\bin\Debug\Guna.UI2.dll
+C:\Users\Billy Mejia\Desktop\Clinica\CapaComun\bin\Debug\Guna.UI2.dll
